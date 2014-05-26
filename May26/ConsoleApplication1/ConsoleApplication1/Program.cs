@@ -13,6 +13,10 @@ namespace ConsoleApplication1
             // commiting this application to Git
 
             Console.WriteLine("Commiting First GitHub Application");
+            Console.WriteLine("Enter Your name" );
+            string Name = Console.ReadLine();
+            Console.WriteLine("Welcome {0} to My GitHub Project");
+            Console.ReadLine();
         }
     }
 }
