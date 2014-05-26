@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             // commiting this application to Git
 
-            Console.WriteLine("this First GitHub Application");
+            Console.WriteLine("Commiting First GitHub Application");
         }
     }
 }
