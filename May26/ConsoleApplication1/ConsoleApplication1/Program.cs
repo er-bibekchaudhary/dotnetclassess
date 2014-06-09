@@ -17,6 +17,7 @@ namespace ConsoleApplication1
             string Name = Console.ReadLine();
             Console.WriteLine("Welcome {0} to My GitHub Project");
             Console.WriteLine("Its me Sunny");
+            Console.WriteLine(  "Sunny welcome to github");
             Console.ReadLine();
         }
     }
